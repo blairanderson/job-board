@@ -1,6 +1,6 @@
 #Job Board from RailsConf 2013
 As seen in this photo:
-<img src="http://imgur.com/rxYie2Z">
+<img src="http://i.imgur.com/rxYie2Z.jpg">
 
 
 # -[Zencoder](http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qN39VfwE&j=ozKaXfwa)
