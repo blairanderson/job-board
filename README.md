@@ -3,12 +3,10 @@
 
 We Accept Pull Requests. 
 
-## -DailyKos
-## -Zencoder
-## -Linode
-## -NEO
-## -Braintree
-## -ThoughtWorks
+## -[Zencoder](http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qN39VfwE&j=ozKaXfwa)
+## -[NEO](http://www.neo.com/jobs)
+## -[Braintree](https://www.braintreepayments.com/company/careers/san-francisco/server-software-engineer-ruby-on-rails)
+## -[ThoughtWorks](http://join.thoughtworks.com/apply)
 ## -[Crowdtilt.com](https://www.crowdtilt.com/learn/jobs#job3)
 ## -[FunnyOrDie!!!](http://www.funnyordie.com/about/jobs)
 ## -AWS+Ruby
