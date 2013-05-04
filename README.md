@@ -1,9 +1,17 @@
 #Job Board from RailsConf 2013
 [As seen in this photo](http://imgur.com/rxYie2Z)
 
-We Accept Pull Requests. 
 
 ## -[Zencoder](http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qN39VfwE&j=ozKaXfwa)
+
+    Ruby on Rails Application Engineer
+    Zencoder | San Francisco, CA, United States 
+    Req ID: NRQ 
+
+__Zencoder offers awesome, API-driven video tools in the cloud. Our users range from small startups to major broadcasters. Customers love us and we're growing quickly, now as a part of the Brightcove product suite. Come be a part of the future of web video.__
+
+---
+
 ## -[NEO](http://www.neo.com/jobs)
 ## -[Braintree](https://www.braintreepayments.com/company/careers/san-francisco/server-software-engineer-ruby-on-rails)
 ## -[ThoughtWorks](http://join.thoughtworks.com/apply)
