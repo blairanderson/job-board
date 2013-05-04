@@ -112,6 +112,16 @@ __You’re down to help build the Internet Talmud (aka the best hip hop site, th
     Software Engineer
     Fonte-end Engineer
 
-Science Exchange is revolutionizing the way the world does science. Tagged by Nature Magazine as the 'eBay of Science', Science Exchange is a fast-growing community marketplace that provides efficient access to the world's scientific expertise. 
+__Science Exchange is revolutionizing the way the world does science. Tagged by Nature Magazine as the 'eBay of Science', Science Exchange is a fast-growing community marketplace that provides efficient access to the world's scientific expertise.__
 
 ---
+
+# -[Kabam](http://corporate.kabam.com/careers/job/oQJUWfw9/)
+
+    Full Stack Web Engineer
+    San Francisco
+
+__You will be joining a team of very experienced Senior Engineerswho are all very open to discussing problems and helping each other over the difficult hurdles of coding for such large scale projects. Everyone gets to produce, test what's produced and ship what shows to be working and effective. When work is done, the team still enjoys spending time together, going to dinners and events.__
+
+---
+
