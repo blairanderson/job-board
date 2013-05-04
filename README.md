@@ -40,6 +40,9 @@ __Our Junior Consultant program is a 12-month period of well-supported training 
 ---
 
 # -[Crowdtilt.com](https://www.crowdtilt.com/learn/jobs#job3)
+
+---
+
 # -[FunnyOrDie!!!](http://www.funnyordie.com/about/jobs#rails)
 
     Ruby on Rails Engineer
@@ -61,13 +64,54 @@ __Shopify is looking for someone to help build and grow a Ruby Development team 
 
 
 # -Gobbler
-# -Rap Genius
+
+---
+
+# -[Rap Genius](http://rapgenius.com/posts/533-Rap-genius-is-hiring)
+
+    Rails programmer
+    Front end developer who can also design
+
+__You’re down to help build the Internet Talmud (aka the best hip hop site, the best lyrics site, the best music social network, the best wikipedia for explanations of all of text, etc, etc)__
+---
+
 # -Code for America
+
+---
+
 # -LivingSocial
+
+---
+
 # -9mmedia
+
+---
+
 # -Bloomberg
+
+---
+
 # -[Spiceworks](http://www.spiceworks.com/jobs/openings/)
+
+---
+
 # -quadlearning
+
+---
+
 # -[NewRelic](http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=4028f88b20d6768d0120f7ae45e50365&id=4028f88c2ce9e054012cec68c7ba1876&gnewtonResize=http://newton.newtonsoftware.com/career/GnewtonResize.htm&source=)
+
+---
+
 # -[Simple.com](http://banksimple.theresumator.com/apply/NjAwtP/Frontend-Engineer.html)
-# -ScienceExchange
+
+---
+
+# -[ScienceExchange](https://www.scienceexchange.com/jobs)
+
+    Software Engineer
+    Fonte-end Engineer
+
+Science Exchange is revolutionizing the way the world does science. Tagged by Nature Magazine as the 'eBay of Science', Science Exchange is a fast-growing community marketplace that provides efficient access to the world's scientific expertise. 
+
+---
