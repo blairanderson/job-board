@@ -3,7 +3,7 @@ As seen in this photo:
 <img src="http://imgur.com/rxYie2Z">
 
 
-## -[Zencoder](http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qN39VfwE&j=ozKaXfwa)
+# -[Zencoder](http://hire.jobvite.com/CompanyJobs/Careers.aspx?k=Job&c=qN39VfwE&j=ozKaXfwa)
 
     Ruby on Rails Application Engineer
     San Francisco 
