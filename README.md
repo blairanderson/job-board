@@ -12,7 +12,7 @@ __Zencoder offers awesome, API-driven video tools in the cloud. Our users range 
 
 ---
 
-## -[NEO](http://www.neo.com/jobs)
+# -[NEO](http://www.neo.com/jobs)
     
     Developer
     San Francisco
@@ -21,7 +21,7 @@ __Are you a great developer and amazing person? Want to join a team of hackers w
 
 ---
 
-## -[Braintree](https://www.braintreepayments.com/company/careers/san-francisco/server-software-engineer-ruby-on-rails)
+# -[Braintree](https://www.braintreepayments.com/company/careers/san-francisco/server-software-engineer-ruby-on-rails)
 
     Server Software Engineer, Ruby-on-Rails
     San Francisco
@@ -30,7 +30,7 @@ __Are you interested in building new features for a highly successful transactio
 
 ---
 
-## -[ThoughtWorks](http://join.thoughtworks.com/apply)
+# -[ThoughtWorks](http://join.thoughtworks.com/apply)
 
     Entry Level Developer
     New York
@@ -39,8 +39,8 @@ __Our Junior Consultant program is a 12-month period of well-supported training 
 
 ---
 
-## -[Crowdtilt.com](https://www.crowdtilt.com/learn/jobs#job3)
-## -[FunnyOrDie!!!](http://www.funnyordie.com/about/jobs#rails)
+# -[Crowdtilt.com](https://www.crowdtilt.com/learn/jobs#job3)
+# -[FunnyOrDie!!!](http://www.funnyordie.com/about/jobs#rails)
 
     Ruby on Rails Engineer
 
@@ -48,9 +48,9 @@ __Ditch that boring job working on the next social enterprise, big-data ad excha
 
 ---
 
-## -AWS+Ruby
+# -AWS+Ruby
 
-## -[Shopify](http://www.shopify.com/careers?posting=ruby-developer)
+# -[Shopify](http://www.shopify.com/careers?posting=ruby-developer)
 
     Ruby Developer
     Toronto
@@ -60,14 +60,14 @@ __Shopify is looking for someone to help build and grow a Ruby Development team 
 ---
 
 
-## -Gobbler
-## -Rap Genius
-## -Code for America
-## -LivingSocial
-## -9mmedia
-## -Bloomberg
-## -[Spiceworks](http://www.spiceworks.com/jobs/openings/)
-## -quadlearning
-## -[NewRelic](http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=4028f88b20d6768d0120f7ae45e50365&id=4028f88c2ce9e054012cec68c7ba1876&gnewtonResize=http://newton.newtonsoftware.com/career/GnewtonResize.htm&source=)
-## -[Simple.com](http://banksimple.theresumator.com/apply/NjAwtP/Frontend-Engineer.html)
-## -ScienceExchange
+# -Gobbler
+# -Rap Genius
+# -Code for America
+# -LivingSocial
+# -9mmedia
+# -Bloomberg
+# -[Spiceworks](http://www.spiceworks.com/jobs/openings/)
+# -quadlearning
+# -[NewRelic](http://newton.newtonsoftware.com/career/JobIntroduction.action?clientId=4028f88b20d6768d0120f7ae45e50365&id=4028f88c2ce9e054012cec68c7ba1876&gnewtonResize=http://newton.newtonsoftware.com/career/GnewtonResize.htm&source=)
+# -[Simple.com](http://banksimple.theresumator.com/apply/NjAwtP/Frontend-Engineer.html)
+# -ScienceExchange
